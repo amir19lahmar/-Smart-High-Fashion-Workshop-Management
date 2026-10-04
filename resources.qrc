@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="style.qss">resources/style.qss</file>
+    <file alias="images/banner_fabric.jpg">resources/images/banner_fabric.jpg</file>
+    <file alias="images/banner_machine.jpg">resources/images/banner_machine.jpg</file>
+    <file alias="images/logo.png">resources/images/logo.png</file>
+    <file alias="images/machine.jpg">resources/images/machine.jpg</file>
+    <file alias="images/thumb1.jpg">resources/images/thumb1.jpg</file>
+    <file alias="images/thumb2.jpg">resources/images/thumb2.jpg</file>
+    <file alias="images/sidebar_bg.jpg">resources/images/sidebar_bg.jpg</file>
+    <file alias="icons/bell.svg">resources/icons/bell.svg</file>
+    <file alias="icons/box.svg">resources/icons/box.svg</file>
+    <file alias="icons/calendar.svg">resources/icons/calendar.svg</file>
+    <file alias="icons/chart.svg">resources/icons/chart.svg</file>
+    <file alias="icons/check.svg">resources/icons/check.svg</file>
+    <file alias="icons/chevron.svg">resources/icons/chevron.svg</file>
+    <file alias="icons/chevron_dark.svg">resources/icons/chevron_dark.svg</file>
+    <file alias="icons/clip.svg">resources/icons/clip.svg</file>
+    <file alias="icons/doc.svg">resources/icons/doc.svg</file>
+    <file alias="icons/eye.svg">resources/icons/eye.svg</file>
+    <file alias="icons/gear.svg">resources/icons/gear.svg</file>
+    <file alias="icons/idcard.svg">resources/icons/idcard.svg</file>
+    <file alias="icons/man.svg">resources/icons/man.svg</file>
+    <file alias="icons/menu.svg">resources/icons/menu.svg</file>
+    <file alias="icons/pen.svg">resources/icons/pen.svg</file>
+    <file alias="icons/plus.svg">resources/icons/plus.svg</file>
+    <file alias="icons/refresh.svg">resources/icons/refresh.svg</file>
+    <file alias="icons/search.svg">resources/icons/search.svg</file>
+    <file alias="icons/tag.svg">resources/icons/tag.svg</file>
+    <file alias="icons/trash.svg">resources/icons/trash.svg</file>
+    <file alias="icons/user.svg">resources/icons/user.svg</file>
+    <file alias="icons/users.svg">resources/icons/users.svg</file>
+    <file alias="icons/warn.svg">resources/icons/warn.svg</file>
+  </qresource>
+</RCC>
